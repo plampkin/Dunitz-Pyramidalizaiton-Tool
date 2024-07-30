@@ -1,0 +1,6 @@
+colors: k, k, b, b
+labels: C, C, N, N
+line_color: lightgray
+projection_color: r
+distance_label_color: r
+connecting_line_color: k
