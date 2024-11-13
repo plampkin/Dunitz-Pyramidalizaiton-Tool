@@ -1,2 +1,2 @@
-# Dunitz-Pyramidalizaiton-Tool
+# Dunitz-Pyramidalization-Tool
 Python code for calculation of Dunitz pyramidalization values in Å of optimized structures of enamines
